@@ -14,7 +14,7 @@ Lors de la première execution du code, il devrait vous manquer les flèches sur
     </p>
 </figure>
 
-Il vous suffit juste de copier le dossier **Images** du dossier *LOA_Benjamin_Farigoul_Projet* dans votre dossier de build.
+Il vous suffit juste de copier le dossier **Images** dans votre dossier de build.
 
 
 # Contrôles et vue de l'application
