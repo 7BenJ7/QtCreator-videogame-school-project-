@@ -4,7 +4,6 @@
 
 # Lancer l'application
 Pour lancer l'application, il suffit d'executer le code dans QtCreator. Vous avez alors 3 choix de difficultés, leur différence se fait sur le temps d'apparition des ennemis (5 secondes en mode facile, 3 secondes en mode normal et 1 seconde en mode difficile). Le but est ensuite de faire le meilleur score (visible en haut de l'écran).
-Les fichiers de codes sont dans le dossiers *LOA_Benjamin_Farigoul_Projet*.
 Lors de la première execution du code, il devrait vous manquer les flèches sur le panneau de commandes :
 
 <figure>
